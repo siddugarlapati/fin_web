@@ -246,4 +246,3 @@ All rights reserved.
 
 ---
 
-**Built with ❤️ for BudgetPay users**
